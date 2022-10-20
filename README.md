@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Jagrati Choure</h1>
 <h3 align="center">A passionate frontend developer, with problem solving skills.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdckx6dYYZQY1B_4yjKjGOku2yoCeui_OTFpTFVdmhPUocXPyM5sSqmkDDUilbSHsEcBY&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVbA1z7PTXI0PP6fKc1OtGHfpBpzUzJKSMew&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jgchoure19&label=Profile%20views&color=0e75b6&style=flat" alt="jgchoure19" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=jgchoure19&label=Profile%20views&color=0e75b6&style=flat" alt="jgchoure19" /> </p>-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jgchoure19" alt="jgchoure19" /></a> </p>
+
 
 - 🔭 I’m currently working on **Data Structures And Algorithms**
 
